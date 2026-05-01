@@ -1,0 +1,31 @@
+{
+  "site": {
+    "name": "The Clowder",
+    "tagline": "13 cats. Zero chill.",
+    "description": "Meet the residents of The Clowder — 13 completely made-up cats with very real personalities, questionable life choices, and strong opinions about Mondays."
+  },
+  "pages": [
+    {
+      "slug": "/",
+      "title": "Meet the Cats",
+      "content": "# Welcome to The Clowder\n\nSomewhere between myth and mischief, thirteen cats live rent-free in our hearts (and on this website). They don't pay taxes. They don't apologize. They simply *are*.\n\nScroll down. Meet them. Try not to pick a favorite — you will fail.\n\n---\n\n## 🐱 Biscuit Flompton\n**Personality:** Aggressively wholesome. Makes biscuits on everything — laptops, faces, sourdough starters. Has never had a bad day and refuses to acknowledge that bad days exist.\n\n---\n\n## 🐱 Lord Vincenzo\n**Personality:** Convinced he is nobility. Wears a ruff (a small paper one taped to his collar). Accepts tribute in the form of shrimp. Will not make eye contact with commoners.\n\n---\n\n## 🐱 Noodle\n**Personality:** Completely boneless, apparently. Found in a new impossible position every morning. Deeply unbothered. Spiritually a puddle.\n\n---\n\n## 🐱 Detective Marmalade\n**Personality:** Investigates everything. The laundry. The wall. The sound from three Tuesdays ago. Has solved zero cases but remains confident. Takes notes (scratches furniture).\n\n---\n\n## 🐱 Grievances\n**Personality:** Named for her primary hobby. Sits at the top of the stairs and stares down at you until you apologize. You don't know what for. She does.\n\n---\n\n## 🐱 Professor Tubbs\n**Personality:** Round. Scholarly. Has sat on every book in the house and absorbed their knowledge. Gives lectures (yowls) at 3 a.m. Tenure is implied.\n\n---\n\n## 🐱 Slim Pickens\n**Personality:** A consummate drama queen despite weighing 14 pounds. Faints theatrically when dinner is two minutes late. Has a go-bag. Has never needed it.\n\n---\n\n## 🐱 Waffles the Unbroken\n**Personality:** Has survived seventeen attempts to put her in a cat carrier. Strategist. War veteran. Currently napping in the carrier voluntarily, just to flex.\n\n---\n\n## 🐱 Horatio Plunk\n**Personality:** Scared of everything — but only *new* everything. Old frightening things are fine. New frightening things (a bag, a breeze, the concept of Thursday) require immediate hiding.\n\n---\n\n## 🐱 Duchess Cremepuff\n**Personality:** Glamorous. Has standards. Will only drink water that is running, slightly cold, and poured with acknowledgment of her greatness. Judges your interior design.\n\n---\n\n## 🐱 Socks Malone\n**Personality:** Four white paws. Criminal record (alleged). Knocks things off shelves with the energy of someone who has already spoken to a lawyer. Remorseless.\n\n---\n\n## 🐱 Tangerine Dream\n**Personality:** Orange and therefore chaotic. Runs at full speed toward walls and pivots at the last possible second. It's a lifestyle. It's a philosophy. It's a cry for help.\n\n---\n\n## 🐱 Meredith the Ancient\n**Personality:** Old beyond reckoning. Has seen empires rise and fall. Knows things. Naps through everything. Occasionally opens one eye and you feel, briefly, that you have been judged across millennia.\n\n---\n\n*The Clowder thanks you for your visit. The cats do not — but they were not asked.*"
+    },
+    {
+      "slug": "/about",
+      "title": "About The Clowder",
+      "content": "# About This Place\n\n## What is The Clowder?\n\nA clowder is the official collective noun for a group of cats. We chose it because it sounds vaguely ominous and also because *thirteen cats* deserved something grander than just 'a bunch.'\n\nThis site exists to celebrate thirteen fictional felines — each one a distinct, fully-realized personality carved from equal parts affection, absurdist humor, and too many hours spent watching cat videos at 2 a.m.\n\n## Why 13?\n\nThirteen is considered unlucky by some. Cats are considered suspicious by others. Combining the two felt correct. Also we just really like cats and couldn't stop at twelve.\n\n## Are these real cats?\n\nNo. They are imaginary. But if you have looked at this site and thought *that is my cat, you have described my cat exactly* — then in some sense, perhaps, they are all real.\n\n## Can I submit my cat?\n\nThe Clowder is closed. Thirteen is the perfect number. It was always thirteen.\n\n---\n\n*Made with love, dark mode, and a concerning amount of cat knowledge.*"
+    }
+  ],
+  "theme": {
+    "accent": "#c084fc",
+    "mode": "dark",
+    "font": "sans"
+  },
+  "schema": {
+    "type": "CreativeWork",
+    "extra": {
+      "about": "A humorous fictional website featuring 13 invented cats with distinct names and personalities.",
+      "genre": "Humor"
+    }
+  }
+}
